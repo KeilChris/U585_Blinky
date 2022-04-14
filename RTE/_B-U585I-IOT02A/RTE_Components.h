@@ -23,9 +23,6 @@
 /* Keil.ARM Compiler::Compiler:Event Recorder:DAP:1.5.1 */
 #define RTE_Compiler_EventRecorder
           #define RTE_Compiler_EventRecorder_DAP
-/* Keil::CMSIS Driver:VIO:Board:B-U585I-IOT02A:1.2.0 */
-#define RTE_VIO_BOARD
-        #define RTE_VIO_B_U585I_IOT02A
 /* Keil::Device:STM32Cube Framework:STM32CubeMX:1.1.0 */
 #define RTE_DEVICE_FRAMEWORK_CUBE_MX
 /* Keil::Device:STM32Cube HAL:Common:1.0.2 */
