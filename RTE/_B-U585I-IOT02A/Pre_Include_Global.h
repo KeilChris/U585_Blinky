@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'Blinky.B-U585I-IOT02A' 
+ * Project: 'Blinky' 
  * Target:  'B-U585I-IOT02A' 
  */
 

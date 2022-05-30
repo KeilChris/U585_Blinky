@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'Blinky.B-U585I-IOT02A' 
+ * Project: 'Blinky' 
  * Target:  'B-U585I-IOT02A' 
  */
 
@@ -16,13 +16,16 @@
  */
 #define CMSIS_device_header "stm32u5xx.h"
 
-/* ARM::CMSIS:RTOS2:Keil RTX5:Source:5.5.3 */
+/* ARM::CMSIS:RTOS2:Keil RTX5:Source:5.5.4 */
 #define RTE_CMSIS_RTOS2                 /* CMSIS-RTOS2 */
         #define RTE_CMSIS_RTOS2_RTX5            /* CMSIS-RTOS2 Keil RTX5 */
         #define RTE_CMSIS_RTOS2_RTX5_SOURCE     /* CMSIS-RTOS2 Keil RTX5 Source */
 /* Keil.ARM Compiler::Compiler:Event Recorder:DAP:1.5.1 */
 #define RTE_Compiler_EventRecorder
           #define RTE_Compiler_EventRecorder_DAP
+/* Keil::CMSIS Driver:VIO:Board:B-U585I-IOT02A:1.2.0 */
+#define RTE_VIO_BOARD
+        #define RTE_VIO_B_U585I_IOT02A
 /* Keil::Device:STM32Cube Framework:STM32CubeMX:1.1.0 */
 #define RTE_DEVICE_FRAMEWORK_CUBE_MX
 /* Keil::Device:STM32Cube HAL:Common:1.0.2 */
